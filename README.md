@@ -1,4 +1,5 @@
 # Exploring Board Game Recommendations Using SQL
+Cleaning and exploring board game data from BoardGameGeek.com using SQL.
 
 ## Project Overview
 Collecting and playing board games with others is one of my favorite hobbies. I enjoy sharing fun experiences around the table with friends and family. 
