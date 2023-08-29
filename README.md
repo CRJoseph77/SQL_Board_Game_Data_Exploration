@@ -18,6 +18,16 @@ Editor Used: This project was created using Microsoft’s SQL Server Management 
   
 3. Preprocessing: No preprocessing was performed prior to importing the CSV files into Microsoft SQL Server Management Studio. During the process of importing, column data types were automatically detected. A few of them had to be inspected to ensure that numbers were being treated as integers or floats and that strings were being interpreted properly as strings. 
 
+## SQL Code
+1. Data exploration - The first part of this project involves getting a better understanding of what is going on in the data, including examining any apparent anomalies found in the data. A basic plan was developed for data cleaning and joining based on discoveries made during data exploration.
+   
+2. Data cleaning and structuring - Next, the data was copied into a second table for cleaning. Data was filtered for only relevant rows and columns, and those columns were cleaned by checking for duplicates, dealing with a few missing values, fixing/removing irrelevant or erroneous data, and creating new columns with transformed/aggregated values.
+
+3. Joining data - Once the data was cleaned and cleaning was validated, the two tables of interest were joined together.
+
+4. Further data exploration - Data exploration was performed on the clean data to investigate highly ranked games based on the different metrics of interest. The data was grouped, filtered, and organized to identify games that meet certain criteria. Other tables and columns were created to further explore the data.
+
+5. Creating stored procedures - Lastly, two stored procedures were created to filter the data based on certain specifications. The first returns all games that contain a specified keyword in their description. The second returns all games that work at a specified player count within a specified weight range. 
 
 
 ## Results
