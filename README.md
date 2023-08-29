@@ -1,3 +1,4 @@
+![](SQL_Boardgame_coverphoto.png)
 # Exploring Board Game Recommendations Using SQL
 Cleaning and exploring board game data from BoardGameGeek.com using SQL.
 
