@@ -12,7 +12,7 @@ The boardgamegeek.com data was explored, cleaned, structured, and manipulated to
 Editor Used: This project was created using Microsoft’s SQL Server Management Studio 19.
 
 ## Data
-1. Source data: The data originally comes from a popular board game reference site, boardgamegeek.com. The two relevant datasets for this project are the games.csv dataset and the mechanics.csv
+1. Source data: The data originally comes from a popular board game reference site, boardgamegeek.com. The two relevant datasets for this project are the [games.csv](games.csv) dataset and the mechanics.csv
 
 2. Acquisition: The boardgamegeek.com data used for this project was downloaded from Kaggle (https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek).
   
