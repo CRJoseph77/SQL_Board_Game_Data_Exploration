@@ -10,7 +10,7 @@ Another element of the board game hobby is discovering and exploring new games t
 The boardgamegeek.com data was explored, cleaned, structured, and manipulated to discover highly ranked games that might be a good fit for me and the people I play games with. 
 
 ## Code and Resources Used
-Editor Used: This project was created using Microsoft’s [SQL Server Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15).
+Editor Used: This project was created using Microsoft’s [SQL [Server](https://www.microsoft.com/en-us/sql-server/sql-server-downloads) Management Studio 19](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver15).
 
 ## Data
 1. Source Data: The data originally comes from a popular board game reference site, boardgamegeek.com. The two relevant datasets for this project are the [games.csv](games.csv) dataset and the [mechanics.csv](mechanics.csv) dataset.
