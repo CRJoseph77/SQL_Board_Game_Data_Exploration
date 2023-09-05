@@ -19,7 +19,7 @@ Editor Used: This project was created using Microsoft’s [SQL Server Management
   
 3. Preprocessing: No preprocessing was performed prior to importing the CSV files into Microsoft SQL Server Management Studio. During the process of importing, column data types were automatically detected. A few of them had to be inspected to ensure that numbers were being treated as integers or floats and that strings were being interpreted properly as strings. 
 
-## SQL Code
+## [SQL Code](BoardGameProject_v2.sql)
 1. Data exploration - The first part of this project involves getting a better understanding of what is going on in the data, including examining any apparent anomalies found in the data. A basic plan was developed for data cleaning and joining based on discoveries made during data exploration.
    
 2. Data cleaning and structuring - Next, the data was copied into a second table for cleaning. Data was filtered for only relevant rows and columns, and those columns were cleaned by checking for duplicates, dealing with a few missing values, fixing/removing irrelevant or erroneous data, and creating new columns with transformed/aggregated values.
